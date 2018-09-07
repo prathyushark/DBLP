@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBLP_Recommender.iml" filepath="$PROJECT_DIR$/.idea/modules/DBLP_Recommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBLP_Recommender_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DBLP_Recommender_main.iml" group="DBLP_Recommender" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBLP_Recommender_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DBLP_Recommender_test.iml" group="DBLP_Recommender" />
+    </modules>
+  </component>
+</project>
