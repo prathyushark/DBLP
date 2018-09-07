@@ -1,10 +1,14 @@
 Technologies Used:
+
 UI: HTML, Javascript, AJAX, JQuery
+
 Business Logic: Java with machine learning algorithms, spring boot, gradle, hibernate
+
 Backend: MySQL database
 
 
 Algorithm Implemented:
+
 K-Nearest Neighbours
 
 Steps to Run the code:
